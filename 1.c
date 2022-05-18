@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(fuck)
+int main()
 /*{
     printf("qqq\n");
     printf("abc");
