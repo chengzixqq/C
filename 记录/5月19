@@ -5,6 +5,6 @@
 类型 name = 值;
 类型 name;(强烈不推荐)
 
-%d int
-%f float
-%lf double
+%d int 整型
+%f float 单精度浮点数
+%lf double 双精度浮点数
