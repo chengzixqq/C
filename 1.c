@@ -1,8 +1,6 @@
-#pragma clang diagnostic push
-#pragma ide diagnostic ignored "cert-err34-c"
 #include <stdio.h>
 
-int main()
+ int main()
 /*{
     printf("qqq\n");
     printf("abc");
@@ -18,12 +16,10 @@ int main()
 }*/
 
 {
-    int a = 1;
-    int b = 3;
+    int a =  1;
+    int b = 0;
     scanf("%d %d",&a,&b);
     int sum = a + b;
-    printf("sum = %d\n",sum);
-
+    printf("%d\n",sum);
     return 0;
 }
-#pragma clang diagnostic pop
