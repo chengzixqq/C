@@ -10,7 +10,6 @@ int main()
     char  ch = 'a';
     int age = 20;
     printf("%d\n", sizeof(char));
-    1231231231231231
 
     return 0;
 }
