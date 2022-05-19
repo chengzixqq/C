@@ -9,7 +9,7 @@ int main()
 {
     char  ch = 'a';
     int age = 20;
-    printf("%d\n", sizeof(char));
+    printf("%d\n", ch);
 
     return 0;
 }
